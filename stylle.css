@@ -1,0 +1,242 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.profile {
+    color: white;
+}
+
+
+
+
+.top-nav {
+    height: 50px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 150px;
+}
+.top {
+    padding-right: 10px;
+    text-decoration: none;
+    color: lightgrey;
+}
+
+
+.top:hover {
+    color: white;
+}
+
+button {
+    margin-left: 100px;
+    margin-right: 1150px;
+    font-size: 18px;
+    color: #fff;
+    background-color: rgb(23, 162, 184);
+    padding: 0px 5px;
+}
+
+.connection-request {
+    height: 165px;
+    width: 200px;
+    border: 3px solid rgb(204, 204, 204);
+    margin-left: 530px;
+    margin-top: 30px;
+}
+
+.top-request {
+    height: 40px;
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 10px;
+}
+
+.connection {
+    color: #fff;
+    padding-left: 10px;
+}
+
+
+#number-2 {
+    background-color: #ccc;
+    padding: 0px 5px;
+    font-size: 15px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+#five-hundered {
+    background-color: #ccc;
+    padding: 2px 5px;
+    font-size: 15px;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+.todd-icon {
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.check-x {
+    height: 20px;
+}
+
+.check-close {
+    padding-left: 30px;
+    
+}
+
+#check-close-2 {
+    padding-left: 40px;
+}
+
+.user-pic {
+    height: 45px;
+    border-radius: 50%;
+}
+
+.move-left {
+    padding-left: 10px;
+}
+
+.phil-icon {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.your-connection {
+    height: 325px;
+    width: 200px;
+    border: 3px solid rgb(204, 204, 204);
+    margin-top: 30px;
+    margin-left: 530px;
+}
+
+.top-connection {
+    height: 40px;
+    padding-left: 10px;
+    background-color: #333;
+    display: flex;
+    align-items: center;
+}
+
+.adrien-icon {
+    margin-top: 15px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.anne-icon {
+    margin-top: 15px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.alayne-icon {
+    margin-top: 15px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.arry-icon {
+    margin-top: 15px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.bottom-connection {
+    height: 5px;
+    margin-top: 10px;
+    border-top: 3px solid #ccc;
+    display: flex;
+    align-items: center;
+}
+
+.bottom {
+    margin-top: 25px;
+    margin-left: 5px;
+    color: #0c5394;
+    font-weight: bold;
+} 
+
+.user-card {
+    height: 275px;
+    width: 400px;
+    border: 3px solid #ccc;
+    margin-top: -530px;
+    margin-left: 100px;
+}
+
+.user-top {
+    background-color: #17A2B8; 
+    height: 60px;
+}
+
+.jane-icon {
+    height: 75px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.user-info {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+}
+
+.resize {
+    height: 15px;
+}
+
+.education-card {
+    height: 200px;
+    width: 400px;
+    border: 3px solid #ccc;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+#jane, .location, .user-card-p, .edit {
+    margin-top: 10px;
+}
+
+.top-education {
+    height: 40px;
+    background-color: #333;
+}
+
+.top-word {
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.education-content {
+    padding: 10px 20px;
+}
+
+.dates {
+    color:grey;
+}
+
+#bootcamp, .dates, #black-belt {
+    margin-top: 5px;
+}
